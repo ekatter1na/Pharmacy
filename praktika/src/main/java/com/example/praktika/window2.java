@@ -48,8 +48,7 @@ public class window2 {
 
     @FXML
     private Label vita_col;
-    String name = "парацетамол";
-    String name2 = "уголь";
+   
     @FXML
     private Button back_button;
     @FXML
